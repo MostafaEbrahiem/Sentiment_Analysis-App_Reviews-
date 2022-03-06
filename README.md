@@ -1,7 +1,7 @@
 # Sentiment_Analysis-App_Reviews-
-Sentiment Analysis Desktop application for application reviews wether it's positive,negative or nutral ,
-Learned on dataset consist of 64300 reviews taken from the google PlayStore,
-featured extracted using BagOfWords and A Gaussian Naive Bayes alrgorithm to fit the model and got 68% accuracy on it.
+Sentiment Analysis Desktop application for application reviews whether it's positive,negative or neutral ,
+Learned on data_set consist of 64300 reviews taken from the google PlayStore,
+featured extracted using BagOfWords(BOW) and A Gaussian Naive Bayes alrgorithm to fit the model and got 68% accuracy on it.
 
 
 ![scr1](https://user-images.githubusercontent.com/88105870/156940198-be18ba57-1395-4253-b424-0bce71897876.jpg)
